@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+        * {
+            font-family: 'Roboto', sans-serif;
+        }
+
+       .container {
+           width: 40%;
+           min-height: 400px;
+           margin-top: 5%;
+           text-align: left;
+           background-color: gray;
+           border: 1px solid darkblue;
+       }
+
+        h1 {
+            color: orange;
+            text-decoration: underline;
+        }
+
+       .answer {
+        margin-top: 4%;
+       }
+
+       option, label{
+            font-size: large;
+        }
+
+        .info {
+            margin-top: 5%;
+        }
+
+        .clear {
+            margin-top: 10%;
+        }
